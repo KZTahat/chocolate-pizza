@@ -1,0 +1,48 @@
+
+body{background-color: rgb(252, 249, 249);margin: 200px;}
+
+/* /.........................................Header  */
+header div{display: inline-block;}
+header div:first-child{margin: 50px;}
+.headerContent{display: inline-block;}
+h1{font-size: 35px;font-family: 'Brush Script MT', cursive;}
+h3{font-size: 8px;color: gray;opacity: 0.9;}
+#imgIcons{float: right;margin: 50px;}
+#imgIcons img:nth-child(6){margin-right: 10px;}
+header{border-bottom: 3px dashed gray;}
+
+
+/* /........................................main */
+.mainHeader{display: inline-block;}
+h2{font-size: 40px;}
+h4{font-size: 13px;color: gray;opacity: 0.7;}
+#mainClassHeader{margin:50px 0px 25px 50px;}
+#mainPrintIcon{float: right;margin:90px 40px 25px 0px;}
+
+#chocoPizzaimg{margin-left: 50px;width: 90%;}
+#paragraphDiv{width: 90%;margin: 50px;}
+p{font-size: 15px;color: rgb(100, 98, 98);opacity: 0.9;}
+span{margin-left: 22px;}
+
+
+#listDiv{background-image: url("https://github.com/LTUC/amman-irbid-201d24/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");width: 90%;height: 300px;margin-left: 50px;}
+#listDiv div{display: inline-block;margin: 45px 90px 0px 50px;}
+label{color: rgb(42, 50, 53);font-size: 16px ;}
+input{margin-bottom: 14px;color: rgb(42, 50, 53);}
+
+
+.person{margin-left: 50px;}
+.person{display: inline-block;}
+.person h2{font-size: 15px;}
+#underTheList{margin: 80px 0px 0px 50px;height: 100px;padding-bottom: 60px;}
+#underTheList img{margin: 20px 5px 0px 20px}
+#underTheList div{width: 450px;line-height:20px;margin: 2px 0px 10px 10px;}
+#underTheList div h2{font-size: 17px;margin-bottom: 13px;color: rgb(37, 36, 36);}
+button{width: 150px;height: 40px; background-color: rgb(189, 80, 17);opacity: 0.8;color: white;
+position:relative;bottom: 30px;right: 15px;}
+
+#underTheList{border-top: 1px solid gray;border-bottom: 1px solid gray;}
+#smallLogoIcon{margin:-17px 0px 0px 420px;}
+
+footer p {text-align: center;color: gray;opacity: 0.7;font-size: 13px;margin-bottom: 5px;}
+footer p:first-child{margin-top: 30px;}
